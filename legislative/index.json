@@ -1,3 +1,13 @@
 [
-
+  {
+    "comment": "Assembly of the Republic",
+    "house_item_id": "Q740564",
+    "position_item_id": "Q19953703",
+    "terms": [
+      {
+        "comment": "13th Portuguese Assembly",
+        "term_item_id": "Q25379987"
+      }
+    ]
+  }
 ]
