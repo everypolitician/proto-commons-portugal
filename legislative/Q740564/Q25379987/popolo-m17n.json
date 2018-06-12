@@ -1,0 +1,125 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt": "Heitor Sousa",
+        "lang:en": "Heitor Sousa"
+      },
+      "id": "Q17496461",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17496461"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Paulo Trigo Pereira",
+        "lang:en": "Paulo Trigo Pereira"
+      },
+      "id": "Q21072405",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21072405"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Filipe Anacoreta Correia",
+        "lang:en": "António Filipe da Providência Santarém Anacoreta Correia"
+      },
+      "id": "Q28555817",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28555817"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:mwl": "Assemblé de la República",
+        "lang:pt": "Assembleia da República",
+        "lang:en": "Assembly of the Republic"
+      },
+      "id": "Q740564",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q740564"
+        }
+      ],
+      "area_id": "Q45",
+      "seat_counts": {
+        "Q19953703": "230"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17496461-04c6882c-48cf-e313-47a1-4803e3f8766b",
+      "person_id": "Q17496461",
+      "organization_id": "Q740564",
+      "area_id": "Q244512",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:pt": "parlamentar",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19953703",
+      "role": {
+        "lang:pt": "Deputado",
+        "lang:en": "Member of the Assembly of the Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21072405-0969185f-4bbd-0290-c7c3-71b2d7948df4",
+      "person_id": "Q21072405",
+      "organization_id": "Q740564",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:pt": "parlamentar",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19953703",
+      "role": {
+        "lang:pt": "Deputado",
+        "lang:en": "Member of the Assembly of the Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28555817-afe37188-402d-298c-c54e-9ea32948658b",
+      "person_id": "Q28555817",
+      "organization_id": "Q740564",
+      "area_id": "Q597",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:pt": "parlamentar",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19953703",
+      "role": {
+        "lang:pt": "Deputado",
+        "lang:en": "Member of the Assembly of the Republic"
+      }
+    }
+  ]
+}
