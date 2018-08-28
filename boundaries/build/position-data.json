@@ -1,0 +1,40 @@
+[
+  {
+    "role_id": "Q19953703",
+    "role_name": {
+      "lang:pt": "Deputado",
+      "lang:en": "Member of the Assembly of the Republic"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:pt": "parlamentar",
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q740564",
+    "organization_name": {
+      "lang:mwl": "Assemblé de la República",
+      "lang:pt": "Assembleia da República",
+      "lang:en": "Assembly of the Republic"
+    }
+  },
+  {
+    "role_id": "Q43185266",
+    "role_name": {
+      "lang:pt": "deputados da Assembleia Constituinte"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:pt": "deputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q5164070",
+    "organization_name": {
+      "lang:pt": "Assembleia Constituinte (Portugal)",
+      "lang:en": "Constituent Assembly of Portugal"
+    }
+  }
+]
