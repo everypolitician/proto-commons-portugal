@@ -1,3 +1,12 @@
 [
-
+  {
+    "comment": "Council of Ministers",
+    "executive_item_id": "Q16850120",
+    "positions": [
+      {
+        "comment": "Prime Minister of Portugal",
+        "position_item_id": "Q1723031"
+      }
+    ]
+  }
 ]

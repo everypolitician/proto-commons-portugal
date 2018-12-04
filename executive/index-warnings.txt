@@ -1,4 +1,3 @@
-WARNING: no executive for Primeiro-ministro de Portugal (Q1723031) in Pertual (Q45)
 WARNING: no executive for Presidente da República Portuguesa (Q322459) in Pertual (Q45)
 WARNING: no head of government position for Çtrito de Lhisboua (Q207199)
 WARNING: no head of government position for Çtrito de Abeiro (Q210527)
