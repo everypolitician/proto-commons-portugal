@@ -11,7 +11,7 @@
       "position_name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Deputado"
+        "value" : "deputado da Assembleia da República"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -86,7 +86,12 @@
       "position_name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "deputados da Assembleia Constituinte"
+        "value" : "deputado da Assembleia Constituinte de 1975"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Constituent Assembly"
       },
       "positionType" : {
         "type" : "uri",
@@ -136,7 +141,7 @@
       "body_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Assembleia Constituinte (Portugal)"
+        "value" : "Assembleia Constituinte"
       },
       "body_en" : {
         "xml:lang" : "en",
