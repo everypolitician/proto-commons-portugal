@@ -2,7 +2,23 @@
   "persons": [
     {
       "name": {
-        "lang:pt": "Heitor Sousa",
+        "lang:pt": "José Magalhães",
+        "lang:en": "José Magalhães"
+      },
+      "id": "Q17285265",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17285265"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Heitor de Sousa",
         "lang:en": "Heitor Sousa"
       },
       "id": "Q17496461",
@@ -34,6 +50,22 @@
     },
     {
       "name": {
+        "lang:pt": "Joana Mortágua",
+        "lang:en": "Joana Mortágua"
+      },
+      "id": "Q23905015",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23905015"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:pt": "Filipe Anacoreta Correia",
         "lang:en": "António Filipe da Providência Santarém Anacoreta Correia"
       },
@@ -42,6 +74,70 @@
         {
           "scheme": "wikidata",
           "identifier": "Q28555817"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Francisco Lopes",
+        "lang:en": "Francisco Lopes"
+      },
+      "id": "Q3062583",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3062583"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Margarida Balseiro Lopes",
+        "lang:en": "Margarida Balseiro Lopes"
+      },
+      "id": "Q52161254",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52161254"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Rosa Dart"
+      },
+      "id": "Q56349046",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56349046"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:mwl": "Anthoniou cousta",
+        "lang:pt": "António Costa",
+        "lang:en": "António Costa"
+      },
+      "id": "Q610788",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q610788"
         }
       ],
       "links": [
@@ -68,6 +164,77 @@
       "seat_counts": {
         "Q19953703": "230"
       }
+    },
+    {
+      "name": {
+        "lang:pt": "CDS - Partido Popular",
+        "lang:en": "Democratic and Social Centre – People's Party"
+      },
+      "id": "Q1054298",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1054298"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Social Democrata",
+        "lang:en": "Social Democratic Party"
+      },
+      "id": "Q595575",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q595575"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:mwl": "Partido Quemunista Pertués",
+        "lang:pt": "Partido Comunista Português",
+        "lang:en": "Portuguese Communist Party"
+      },
+      "id": "Q769829",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q769829"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Socialista",
+        "lang:en": "Socialist Party"
+      },
+      "id": "Q847263",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q847263"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Bloco de Esquerda",
+        "lang:en": "Left Bloc"
+      },
+      "id": "Q884840",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q884840"
+        }
+      ]
     }
   ],
   "areas": [
@@ -75,10 +242,9 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q17496461-04c6882c-48cf-e313-47a1-4803e3f8766b",
-      "person_id": "Q17496461",
+      "id": "http://www.wikidata.org/entity/statement/Q17285265-3585098a-4e94-bacd-899d-4c5293908d4e",
+      "person_id": "Q17285265",
       "organization_id": "Q740564",
-      "area_id": "Q244512",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:pt": "parlamentar",
@@ -86,7 +252,23 @@
       },
       "role_code": "Q19953703",
       "role": {
-        "lang:pt": "Deputado",
+        "lang:pt": "deputado da Assembleia da República",
+        "lang:en": "Member of the Assembly of the Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17496461-04c6882c-48cf-e313-47a1-4803e3f8766b",
+      "person_id": "Q17496461",
+      "organization_id": "Q740564",
+      "area_id": "Q59115317",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:pt": "parlamentar",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19953703",
+      "role": {
+        "lang:pt": "deputado da Assembleia da República",
         "lang:en": "Member of the Assembly of the Republic"
       }
     },
@@ -101,15 +283,17 @@
       },
       "role_code": "Q19953703",
       "role": {
-        "lang:pt": "Deputado",
+        "lang:pt": "deputado da Assembleia da República",
         "lang:en": "Member of the Assembly of the Republic"
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q28555817-afe37188-402d-298c-c54e-9ea32948658b",
-      "person_id": "Q28555817",
+      "id": "http://www.wikidata.org/entity/statement/Q23905015-37505D45-E45C-4D48-96E5-0014EACF8841",
+      "person_id": "Q23905015",
+      "on_behalf_of_id": "Q884840",
       "organization_id": "Q740564",
-      "area_id": "Q597",
+      "area_id": "Q58916101",
+      "start_date": "2015-10-23",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:pt": "parlamentar",
@@ -117,7 +301,99 @@
       },
       "role_code": "Q19953703",
       "role": {
-        "lang:pt": "Deputado",
+        "lang:pt": "deputado da Assembleia da República",
+        "lang:en": "Member of the Assembly of the Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28555817-afe37188-402d-298c-c54e-9ea32948658b",
+      "person_id": "Q28555817",
+      "on_behalf_of_id": "Q1054298",
+      "organization_id": "Q740564",
+      "area_id": "Q43187878",
+      "start_date": "2015-10-23",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:pt": "parlamentar",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19953703",
+      "role": {
+        "lang:pt": "deputado da Assembleia da República",
+        "lang:en": "Member of the Assembly of the Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3062583-430a90f2-4fce-aef5-ec39-8261b25124aa",
+      "person_id": "Q3062583",
+      "on_behalf_of_id": "Q769829",
+      "organization_id": "Q740564",
+      "area_id": "Q58916101",
+      "start_date": "2015-10-23",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:pt": "parlamentar",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19953703",
+      "role": {
+        "lang:pt": "deputado da Assembleia da República",
+        "lang:en": "Member of the Assembly of the Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52161254-7381003E-37F0-4690-A923-62F09FD8CDEF",
+      "person_id": "Q52161254",
+      "on_behalf_of_id": "Q595575",
+      "organization_id": "Q740564",
+      "area_id": "Q59115317",
+      "start_date": "2015-10-23",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:pt": "parlamentar",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19953703",
+      "role": {
+        "lang:pt": "deputado da Assembleia da República",
+        "lang:en": "Member of the Assembly of the Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56349046-b55c6ea7-49e3-f057-d2df-0095dc798e2c",
+      "person_id": "Q56349046",
+      "on_behalf_of_id": "Q595575",
+      "organization_id": "Q740564",
+      "area_id": "Q28679904",
+      "start_date": "2015-10-23",
+      "end_date": "2015-10-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:pt": "parlamentar",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19953703",
+      "role": {
+        "lang:pt": "deputado da Assembleia da República",
+        "lang:en": "Member of the Assembly of the Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q610788-139cd996-4744-5a6f-ce41-e43d6bb1a12e",
+      "person_id": "Q610788",
+      "on_behalf_of_id": "Q847263",
+      "organization_id": "Q740564",
+      "area_id": "Q43187878",
+      "start_date": "2015-10-23",
+      "end_date": "2015-11-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:pt": "parlamentar",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19953703",
+      "role": {
+        "lang:pt": "deputado da Assembleia da República",
         "lang:en": "Member of the Assembly of the Republic"
       }
     }

@@ -2,7 +2,7 @@
   {
     "role_id": "Q19953703",
     "role_name": {
-      "lang:pt": "Deputado",
+      "lang:pt": "deputado da Assembleia da República",
       "lang:en": "Member of the Assembly of the Republic"
     },
     "generic_role_id": "Q486839",
@@ -22,7 +22,8 @@
   {
     "role_id": "Q43185266",
     "role_name": {
-      "lang:pt": "deputados da Assembleia Constituinte"
+      "lang:pt": "deputado da Assembleia Constituinte de 1975",
+      "lang:en": "deputy of the Constituent Assembly"
     },
     "generic_role_id": "Q1055894",
     "generic_role_name": {
@@ -33,7 +34,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q5164070",
     "organization_name": {
-      "lang:pt": "Assembleia Constituinte (Portugal)",
+      "lang:pt": "Assembleia Constituinte",
       "lang:en": "Constituent Assembly of Portugal"
     }
   }

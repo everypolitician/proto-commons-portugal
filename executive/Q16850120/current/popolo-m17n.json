@@ -1,0 +1,610 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt": "Nuno José Severo de Mendoça Rolim de Moura Barreto",
+        "lang:en": "Nuno José Severo de Mendoça Rolim de Moura Barreto, 1st Duke of Loulé"
+      },
+      "id": "Q116972",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q116972"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Francisco Veiga Beirão",
+        "lang:en": "Francisco da Veiga Beirão"
+      },
+      "id": "Q1392575",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1392575"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "João Tamagnini Barbosa",
+        "lang:en": "João Tamagnini Barbosa"
+      },
+      "id": "Q226023",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q226023"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Maria de Lourdes Pintasilgo",
+        "lang:en": "Maria de Lourdes Pintasilgo"
+      },
+      "id": "Q235916",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q235916"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Joaquim Pimenta de Castro",
+        "lang:en": "Joaquim Pimenta de Castro"
+      },
+      "id": "Q305493",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q305493"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Anselmo José Braamcamp",
+        "lang:en": "Anselmo José Braamcamp"
+      },
+      "id": "Q321278",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q321278"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Afonso Costa",
+        "lang:en": "Afonso Costa"
+      },
+      "id": "Q383401",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q383401"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "José Travassos Valdez",
+        "lang:en": "José Travassos Valdez, 1st Count of Bonfim"
+      },
+      "id": "Q560962",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q560962"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:mwl": "Anthoniou cousta",
+        "lang:pt": "António Costa",
+        "lang:en": "António Costa"
+      },
+      "id": "Q610788",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q610788"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Fontes Pereira de Melo",
+        "lang:en": "Fontes Pereira de Melo"
+      },
+      "id": "Q611180",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q611180"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Artur Ivens Ferraz",
+        "lang:en": "Artur Ivens Ferraz"
+      },
+      "id": "Q714463",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q714463"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Domingos da Costa Oliveira",
+        "lang:en": "Domingos Oliveira"
+      },
+      "id": "Q727082",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q727082"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "José Vicente de Freitas",
+        "lang:en": "José Vicente de Freitas"
+      },
+      "id": "Q982204",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q982204"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pt": "Conselho de Ministros",
+        "lang:en": "Council of Ministers"
+      },
+      "id": "Q16850120",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16850120"
+        }
+      ],
+      "area_id": "Q45"
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Progressista",
+        "lang:en": "Progressive Party"
+      },
+      "id": "Q1412211",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1412211"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Nacional Republicano",
+        "lang:en": "National Republican Party"
+      },
+      "id": "Q1513692",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1513692"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Republicano Português",
+        "lang:en": "Portuguese Republican Party"
+      },
+      "id": "Q2054740",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2054740"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Histórico",
+        "lang:en": "Historical Party"
+      },
+      "id": "Q206376",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q206376"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Regenerador",
+        "lang:en": "Regenerator Party"
+      },
+      "id": "Q2137407",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2137407"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Reformista",
+        "lang:en": "Partido Reformista"
+      },
+      "id": "Q282205",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q282205"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Constituição portuguesa de 1822"
+      },
+      "id": "Q2995232",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2995232"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Socialista",
+        "lang:en": "Socialist Party"
+      },
+      "id": "Q847263",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q847263"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "União Nacional",
+        "lang:en": "National Union"
+      },
+      "id": "Q954010",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q954010"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Renovador Democrático",
+        "lang:en": "Democratic Renewal Party"
+      },
+      "id": "Q980864",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q980864"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q116972-cb037878-449e-18c8-5f81-185a5b367d93",
+      "person_id": "Q116972",
+      "on_behalf_of_id": "Q206376",
+      "organization_id": "Q16850120",
+      "area_id": "Q45",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pt": "primeiro-ministro",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q1723031",
+      "role": {
+        "lang:pt": "Primeiro-ministro de Portugal",
+        "lang:en": "Prime Minister of Portugal"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1392575-FF2984F4-8A31-4E7C-906E-0C614C617787",
+      "person_id": "Q1392575",
+      "on_behalf_of_id": "Q282205",
+      "organization_id": "Q16850120",
+      "area_id": "Q45",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pt": "primeiro-ministro",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q1723031",
+      "role": {
+        "lang:pt": "Primeiro-ministro de Portugal",
+        "lang:en": "Prime Minister of Portugal"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q226023-B7FF206C-E22D-41EA-86E0-D760E6D9EC9E",
+      "person_id": "Q226023",
+      "on_behalf_of_id": "Q1513692",
+      "organization_id": "Q16850120",
+      "area_id": "Q45",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pt": "primeiro-ministro",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q1723031",
+      "role": {
+        "lang:pt": "Primeiro-ministro de Portugal",
+        "lang:en": "Prime Minister of Portugal"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q235916-5A11FC7D-9962-40DB-998A-70B8F066AE0A",
+      "person_id": "Q235916",
+      "on_behalf_of_id": "Q847263",
+      "organization_id": "Q16850120",
+      "area_id": "Q45",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pt": "primeiro-ministro",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q1723031",
+      "role": {
+        "lang:pt": "Primeiro-ministro de Portugal",
+        "lang:en": "Prime Minister of Portugal"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q235916-5A11FC7D-9962-40DB-998A-70B8F066AE0A",
+      "person_id": "Q235916",
+      "on_behalf_of_id": "Q980864",
+      "organization_id": "Q16850120",
+      "area_id": "Q45",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pt": "primeiro-ministro",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q1723031",
+      "role": {
+        "lang:pt": "Primeiro-ministro de Portugal",
+        "lang:en": "Prime Minister of Portugal"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q305493-14f5d911-45ba-b0e4-cb23-9d1a41d9289f",
+      "person_id": "Q305493",
+      "organization_id": "Q16850120",
+      "area_id": "Q45",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pt": "primeiro-ministro",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q1723031",
+      "role": {
+        "lang:pt": "Primeiro-ministro de Portugal",
+        "lang:en": "Prime Minister of Portugal"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q321278-391cc769-4a22-e8cd-9619-2f30d2fe2e63",
+      "person_id": "Q321278",
+      "on_behalf_of_id": "Q1412211",
+      "organization_id": "Q16850120",
+      "area_id": "Q45",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pt": "primeiro-ministro",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q1723031",
+      "role": {
+        "lang:pt": "Primeiro-ministro de Portugal",
+        "lang:en": "Prime Minister of Portugal"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q383401-1fa119df-4d4f-49dc-1c44-c15adf9cd3b3",
+      "person_id": "Q383401",
+      "on_behalf_of_id": "Q2054740",
+      "organization_id": "Q16850120",
+      "area_id": "Q45",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pt": "primeiro-ministro",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q1723031",
+      "role": {
+        "lang:pt": "Primeiro-ministro de Portugal",
+        "lang:en": "Prime Minister of Portugal"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q560962-8867CEB0-6B3B-4B38-BE5A-65B67EC673A1",
+      "person_id": "Q560962",
+      "on_behalf_of_id": "Q2995232",
+      "organization_id": "Q16850120",
+      "area_id": "Q45",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pt": "primeiro-ministro",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q1723031",
+      "role": {
+        "lang:pt": "Primeiro-ministro de Portugal",
+        "lang:en": "Prime Minister of Portugal"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q610788-2f29e5e6-473c-1859-41e1-c08f6b0a0fe4",
+      "person_id": "Q610788",
+      "on_behalf_of_id": "Q847263",
+      "organization_id": "Q16850120",
+      "area_id": "Q45",
+      "start_date": "2015-11-26",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pt": "primeiro-ministro",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q1723031",
+      "role": {
+        "lang:pt": "Primeiro-ministro de Portugal",
+        "lang:en": "Prime Minister of Portugal"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q611180-27F29A40-FE21-4ABB-93B3-94CA7F319CF9",
+      "person_id": "Q611180",
+      "on_behalf_of_id": "Q2137407",
+      "organization_id": "Q16850120",
+      "area_id": "Q45",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pt": "primeiro-ministro",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q1723031",
+      "role": {
+        "lang:pt": "Primeiro-ministro de Portugal",
+        "lang:en": "Prime Minister of Portugal"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q714463-6AFFB13D-00CA-4C1E-A362-E8EF67153E84",
+      "person_id": "Q714463",
+      "organization_id": "Q16850120",
+      "area_id": "Q45",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pt": "primeiro-ministro",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q1723031",
+      "role": {
+        "lang:pt": "Primeiro-ministro de Portugal",
+        "lang:en": "Prime Minister of Portugal"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q727082-d2c493d0-46ac-aa84-b4c8-519447b7dc45",
+      "person_id": "Q727082",
+      "on_behalf_of_id": "Q954010",
+      "organization_id": "Q16850120",
+      "area_id": "Q45",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pt": "primeiro-ministro",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q1723031",
+      "role": {
+        "lang:pt": "Primeiro-ministro de Portugal",
+        "lang:en": "Prime Minister of Portugal"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q982204-CA78DFDB-F0F0-46D7-B880-A15B7B1859A1",
+      "person_id": "Q982204",
+      "organization_id": "Q16850120",
+      "area_id": "Q45",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pt": "primeiro-ministro",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q1723031",
+      "role": {
+        "lang:pt": "Primeiro-ministro de Portugal",
+        "lang:en": "Prime Minister of Portugal"
+      }
+    }
+  ]
+}
