@@ -1,153 +1,104 @@
 {
-  "head" : {
-    "vars" : [ "position", "position_name_mwl", "position_name_pt", "position_name_en", "positionType", "adminAreaTypes", "adminArea", "admin_area_mwl", "admin_area_pt", "admin_area_en", "positionSuperclass", "position_superclass_mwl", "position_superclass_pt", "position_superclass_en", "body", "body_mwl", "body_pt", "body_en" ]
+  "head": {
+    "vars": [
+      "position",
+      "position_name_mwl",
+      "position_name_pt",
+      "position_name_en",
+      "positionType",
+      "adminAreaTypes",
+      "adminArea",
+      "admin_area_mwl",
+      "admin_area_pt",
+      "admin_area_en",
+      "positionSuperclass",
+      "position_superclass_mwl",
+      "position_superclass_pt",
+      "position_superclass_en",
+      "body",
+      "body_mwl",
+      "body_pt",
+      "body_en"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19953703"
-      },
-      "position_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "deputado da Assembleia da República"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Assembly of the Republic"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q6256"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q45"
-      },
-      "admin_area_mwl" : {
-        "xml:lang" : "mwl",
-        "type" : "literal",
-        "value" : "Pertual"
-      },
-      "admin_area_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Portugal"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Portugal"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "position_superclass_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "parlamentar"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q740564"
-      },
-      "body_mwl" : {
-        "xml:lang" : "mwl",
-        "type" : "literal",
-        "value" : "Assemblé de la República"
-      },
-      "body_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Assembleia da República"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Assembly of the Republic"
+  "results": {
+    "bindings": [
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19953703"
+        },
+        "position_name_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "deputado da Assembleia da República"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Assembly of the Republic"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45"
+        },
+        "admin_area_mwl": {
+          "xml:lang": "mwl",
+          "type": "literal",
+          "value": "Pertual"
+        },
+        "admin_area_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Portugal"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portugal"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "position_superclass_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "parlamentar"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q740564"
+        },
+        "body_mwl": {
+          "xml:lang": "mwl",
+          "type": "literal",
+          "value": "Assemblé de la República"
+        },
+        "body_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Assembleia da República"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Assembly of the Republic"
+        }
       }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q43185266"
-      },
-      "position_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "deputado da Assembleia Constituinte de 1975"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "deputy of the Constituent Assembly"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q6256"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q45"
-      },
-      "admin_area_mwl" : {
-        "xml:lang" : "mwl",
-        "type" : "literal",
-        "value" : "Pertual"
-      },
-      "admin_area_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Portugal"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Portugal"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1055894"
-      },
-      "position_superclass_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "deputado"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "deputy"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5164070"
-      },
-      "body_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Assembleia Constituinte"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Constituent Assembly of Portugal"
-      }
-    } ]
+    ]
   }
 }
