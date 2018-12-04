@@ -18,24 +18,5 @@
       "lang:pt": "Assembleia da República",
       "lang:en": "Assembly of the Republic"
     }
-  },
-  {
-    "role_id": "Q43185266",
-    "role_name": {
-      "lang:pt": "deputado da Assembleia Constituinte de 1975",
-      "lang:en": "deputy of the Constituent Assembly"
-    },
-    "generic_role_id": "Q1055894",
-    "generic_role_name": {
-      "lang:pt": "deputado",
-      "lang:en": "deputy"
-    },
-    "role_level": "Q6256",
-    "role_type": "Q4175034",
-    "organization_id": "Q5164070",
-    "organization_name": {
-      "lang:pt": "Assembleia Constituinte",
-      "lang:en": "Constituent Assembly of Portugal"
-    }
   }
 ]

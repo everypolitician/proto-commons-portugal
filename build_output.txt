@@ -1,6 +1,7 @@
 WARNING: Position deputado da Assembleia da República (Q19953703) not in boundary associated_wikidata_positions
 WARNING: the district Círculo eleitoral de Leiria (Q59115317) wasn't found in the boundary data for position deputado da Assembleia da República (Q19953703)
 WARNING: the district Círculo eleitoral de Setúbal (Q58916101) wasn't found in the boundary data for position deputado da Assembleia da República (Q19953703)
+WARNING: the district Círculo eleitoral dos Açores (Q28679904) wasn't found in the boundary data for position deputado da Assembleia da República (Q19953703)
 WARNING: the district Círculo eleitoral de Lisboa (Q43187878) wasn't found in the boundary data for position deputado da Assembleia da República (Q19953703)
 WARNING: the district Círculo eleitoral de Setúbal (Q58916101) wasn't found in the boundary data for position deputado da Assembleia da República (Q19953703)
 WARNING: the district Círculo eleitoral de Leiria (Q59115317) wasn't found in the boundary data for position deputado da Assembleia da República (Q19953703)
